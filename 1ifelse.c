@@ -3,8 +3,6 @@
 // use if else condtion.
 
 #include<stdio.h>
-
-
 int main(){
 int rupees;
 printf("enter no  student performance \n" );
