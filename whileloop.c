@@ -1,4 +1,4 @@
-//write a program to convert into character.
+//write a program to convert numbers into character.
 #include<stdio.h>
 #include<stdlib.h>
 
